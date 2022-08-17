@@ -1,3 +1,74 @@
 body {
-    background: blue;
+    background: lightgray;
+    width: 1000px;
+}
+p {
+  font-size: 18px;
+  padding-right: 300px;
+  width: 300px;
+}
+section {
+    display:block;
+    align-items: center;
+    padding-right: 300px;
+    font-size: 23px;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin: 40px;
+    width: 350px;
+    height: 290px;
+}
+header {
+    position: flex;
+    padding: 30px;
+}
+div.sanje {
+display: flex;
+font-size: 50px;
+align-items: center;
+justify-content:center;
+}
+div.svg {
+    flex-basis: 40px;
+}
+div#mascot {
+    font-size: 18px;
+    width: 700px;
+    padding: 40px;
+    background: whitesmoke;
+    padding-right: 10px;
+}
+ul {
+    font-size: 25px;
+    padding: 20px;
+}
+ol.lineup {
+    align-items: left;
+    padding: 60px;
+    font-size: 18px;
+}
+li {
+padding-right: 300px;
+width: 300px;
+}
+h4 {
+    font-size: 25px;
+}
+#collection {
+    display: flex;
+}
+table {
+    display:block;
+    align-items: center;
+    padding-right: 300px;
+    font-size: 23px;
+    padding: 10px;
+    margin: 40px;
+    width: 480px;
+    height: 400px;
+    background: whitesmoke;
+}
+
+tr {
+    font-size: 19px;;
 }
